@@ -44,4 +44,5 @@ https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/credentials.html#cre
 | access_key | string |
 | secret_key | string |
 
+[ico-version]: https://img.shields.io/gem/v/logstash-input-cloudwatch_logs_importer.svg?style=flat-square
 [link-rubygems]: https://rubygems.org/gems/logstash-input-cloudwatch_logs_importer
