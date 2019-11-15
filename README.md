@@ -1,6 +1,7 @@
+# Logstash Cloudwatch Logs Importer Input
+
 [![Gem][ico-version]][link-rubygems]
 
-# Logstash Cloudwatch Logs Importer Input
 
 Plugin to import logs from Cloudwatch Logs. Requires Logstash 7+.
 
